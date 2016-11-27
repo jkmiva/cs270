@@ -1,3 +1,5 @@
 # cs270
-usask cs270
-zip projects created by netBeans 8.1, netBeans sucks...
+usask cs270 OO programming
+projects built by netBeans
+
+_minesweeper_ multithread, client-server model
